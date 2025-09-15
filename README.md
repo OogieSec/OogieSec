@@ -1,16 +1,55 @@
-## Hi there 👋
+## Hello, I am Eric
+<a href="https://www.linkedin.com/in/eric-haley1/"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**oogsec/oogsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have been in IT for 20+ years and I am dedicated to solving complex problems.
 
-Here are some ideas to get you started:
+## Objective
+My journey in cybersecuruty I am now trying to expand my knowledge and abilities 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+ 
+</div>
+
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NinjaOne-005FCC?style=for-the-badge&logo=monitor&logoColor=white" />
+
+  
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SentinelOne-5e2b97?style=for-the-badge&logo=security&logoColor=white" />
+
+
+
+</div>
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/Security%2B-Certified-red?logo=comptia&logoColor=white" />
+<img src="https://img.shields.io/badge/CySA+-Certified-blueviolet?logo=comptia&logoColor=white" />
+
+</div>
+
+## Projects
+- Detection Lab
+- SOC Automation Project
