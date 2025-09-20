@@ -16,7 +16,7 @@ My journey in cybersecuruty I am now trying to expand my knowledge and abilities
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+**in edit**
 
 ### Network
 <div>
