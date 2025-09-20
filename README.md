@@ -1,10 +1,10 @@
 ## Hello, Welcome to my GitHub Profile
 <a href="https://www.linkedin.com/in/eric-haley1/"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m Eric, and I have been in IT for over 20 years 
+I'm Eric, bringing over two decades of hands-on experience in IT, with a strong focus on cybersecurity, systems management, and technology innovation.
 
 ## Objective
-My journey in cybersecuruty I am now trying to expand my knowledge and abilities 
+As a cybersecurity enthusiast and practitioner, my goal is to contribute to a safer digital world by sharing practical tools, insightful research, and real-world attack & defense simulations. This GitHub serves as a portfolio of my projects in areas such as penetration testing, malware analysis, threat intelligence, and secure coding. I'm passionate about continuous learning and collaboration to strengthen the security community.
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -16,14 +16,6 @@ My journey in cybersecuruty I am now trying to expand my knowledge and abilities
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-Several tools that I used:
-
-Google Workspace (Drive, Docs, Sheets, Slides)<br>
-Tcpdump<br>
-Wireshark<br>
-Linux OS<br>
-Splunk<br>
-Python
 
 ### Network
 <div>
