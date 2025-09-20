@@ -1,7 +1,7 @@
-## Hello, I am Eric
+## Hello, welcome to my GitHub Profile
 <a href="https://www.linkedin.com/in/eric-haley1/"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I have been in IT for 20+ years and I am dedicated to solving complex problems.
+I’m Eric, and I have been in IT for over 20 years 
 
 ## Objective
 My journey in cybersecuruty I am now trying to expand my knowledge and abilities 
