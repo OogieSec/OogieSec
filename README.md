@@ -16,7 +16,14 @@ My journey in cybersecuruty I am now trying to expand my knowledge and abilities
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-**in edit**
+Several tools that I used:
+
+Google Workspace (Drive, Docs, Sheets, Slides)<br>
+Tcpdump<br>
+Wireshark<br>
+Linux OS<br>
+Splunk<br>
+Python
 
 ### Network
 <div>
