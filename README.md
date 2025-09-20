@@ -8,8 +8,8 @@ My journey in cybersecuruty I am now trying to expand my knowledge and abilities
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/oogsec/Detection-Lab/tree/main">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/oogsec/Detection-Lab/tree/main">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/oogsec/Detection-Lab/tree/main">SOC Home Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/oogsec/Detection-Lab/tree/main">SOC Home Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -51,5 +51,5 @@ My journey in cybersecuruty I am now trying to expand my knowledge and abilities
 </div>
 
 ## Projects
--  <a href="https://github.com/oogsec/Detection-Lab/tree/main">Detection Lab</a>
+-  <a href="https://github.com/oogsec/Detection-Lab/tree/main">SOC Home Lab</a>
 - SOC Automation Project
