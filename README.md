@@ -9,7 +9,7 @@ As a cybersecurity enthusiast and practitioner, my goal is to contribute to a sa
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/oogsec/SOC-Home-Lab">SOC Home Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/oogsec/SOC-Home-Lab">SOC Home Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/OogieSec/SOCv1/blob/main/Router/Setup.md">Pfsense Router</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
