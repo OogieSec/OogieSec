@@ -30,10 +30,8 @@ As a cybersecurity enthusiast and practitioner, my goal is to contribute to a sa
 -  🛡️<a href="https://github.com/oogsec/SOC-Home-Lab">SOC Home Lab</a>
 - 🛡️SOC Automation Project
 
-## ✅ Future Project Checklist
+## 🚀 Future Goals
 
-- [ ] **Wireshark** – Packet capture and traffic analysis  
-- [ ] **Tenable** – Cloud security & vulnerability management  
 - [ ] **OpenVAS** – Vulnerability assessment scanner  
 - [ ] **Elastic Defend** – Endpoint agent for Windows  
 - [ ] **SOC Setup** – Define team roles, workflows, and monitoring responsibilities  
