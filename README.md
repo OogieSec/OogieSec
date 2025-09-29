@@ -28,7 +28,9 @@ As a cybersecurity enthusiast and practitioner, my goal is to contribute to a sa
 
 ## Projects
 -  🛡️<a href="https://github.com/oogsec/SOC-Home-Lab">SOC Home Lab</a>
-- 🛡️SOC Automation Project
+-  🛡️<a href="https://github.com/OogieSec/SOCv1/blob/main/Router/Setup.md">Next Gen Router</a>
+
+
 
 ## 🚀 Future Goals
 
