@@ -30,10 +30,13 @@ As a cybersecurity enthusiast and practitioner, my goal is to contribute to a sa
 -  🛡️<a href="https://github.com/oogsec/SOC-Home-Lab">SOC Home Lab</a>
 -  🛡️<a href="https://github.com/OogieSec/SOCv1/blob/main/Router/Setup.md">Next Gen Router</a>
 
+## 🚀 To-do: 
 
-
-## 🚀 Future Goals
-
+- [ ] **Static IP All Machines** – Check devices IP's to list
+- [ ] **Set up** Rules and Decoding alerts from Honeypot (in keeper opencanary-json)
+- [ ] **Configur Wazuh** to use the Virustotal API (in keeper ossec_config)
+- [ ] **OpenCanary** – Honeypot setup
+- [ ] **Snort Setup** – Snort config setup
 - [ ] **OpenVPN** – Set up a secure VPN tunnel  
 - [ ] **OpenVAS** – Vulnerability assessment scanner  
 - [ ] **SOC Setup** – Define team roles, workflows, and monitoring responsibilities  
