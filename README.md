@@ -1,4 +1,4 @@
-## 🚀Hello, Welcome to my GitHub Profile
+## 💻Hello, Welcome to my GitHub Profile
 <a href="https://www.linkedin.com/in/eric-haley1/"> <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm Eric, bringing over two decades of hands-on experience in IT, with a strong focus on cybersecurity, systems management, and technology innovation.
@@ -26,27 +26,31 @@ As a cybersecurity enthusiast and practitioner, my goal is to contribute to a sa
 
 </div>
 
-## Projects
+## 🔍Projects
 -  🛡️<a href="https://github.com/oogsec/SOC-Home-Lab">SOC Home Lab</a>
 -  🛡️<a href="https://github.com/OogieSec/SOCv1/blob/main/Router/Setup.md">Next Gen Router</a>
 
-## 🚀 To-do: 
+## 🚀 Project Status: 
 
-- [ ] **Static IP All Machines** – Check devices IP's to list
-- [ ] **Set up** Rules and Decoding alerts from Honeypot (in keeper opencanary-json)
-- [ ] **Configur Wazuh** to use the Virustotal API (in keeper ossec_config)
-- [ ] **OpenCanary** – Honeypot setup
-- [ ] **Snort Setup** – Snort config setup
-- [ ] **OpenVPN** – Set up a secure VPN tunnel  
-- [ ] **OpenVAS** – Vulnerability assessment scanner  
-- [ ] **SOC Setup** – Define team roles, workflows, and monitoring responsibilities  
-- [ ] **SIEM Setup** – Collect, correlate, and analyze security data (network, servers, apps)  
-- [ ] **AWS Monitoring** – Use CloudTrail + SNS to detect and alert on activity  
-- [ ] **Active Directory** – Deploy AD for simulating privilege management & attacks  
-- [ ] **Dockerized Services** – Fully containerized setup for easy deployment & maintenance  
-- [X] **Metasploit** – Practice vulnerability testing (in isolated lab environments only) 
-- [X] **Wazuh** – XDR/SIEM protection for endpoints and cloud
+| Phase | Status |
+| ------------ | ------------- |
+| Git/GitHub setup | ✅ Complete  |
+| VirtualBox installed | ✅ Complete  |
+| Windows VM created | ✅ Complete  |
+| PfSense Firewall | ✅ Complete  |
+| Snort NIDS/NIPS | ✅ Complete  |
+| SIEM deployed (Wazuh) | ✅ Complete  |
+| Wazuh XDR/SIEM protection for endpoints and cloud | ✅ Complete  |
+| Snort Setup | ⚡ In Prog  |
+| Attacks simulated | ⬜ Pending  |
+| Set up rules and decoding alerts from Honeypot| ⬜ Pending  |
+| Configur Wazuh** to use the Virustotal API (in keeper ossec_config) | ⬜ Pending  |
+| OpenCanary Honeypot setup | ⬜ Pending  |
+| OpenVPN | ⬜ Pending  |
+| OpenVAS | ⬜ Pending  |
+| Active Directory deploy AD for simulating privilege management & attacks  | ⬜ Pending  |
+| AWS Monitoring Use CloudTrail + SNS to detect and alert on activity | ⬜ Pending  |
+| Dockerized Services | ⬜ Pending  |
 
   ## 📦 Docker Setup (Example)
-
   You can run OpenVAS, Shuffle, and Elastic Stack via Docker.
