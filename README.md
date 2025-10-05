@@ -34,17 +34,15 @@ As a cybersecurity enthusiast and practitioner, my goal is to contribute to a sa
 
 ## 🚀 Future Goals
 
+- [ ] **OpenVPN** – Set up a secure VPN tunnel  
 - [ ] **OpenVAS** – Vulnerability assessment scanner  
-- [ ] **Elastic Defend** – Endpoint agent for Windows  
 - [ ] **SOC Setup** – Define team roles, workflows, and monitoring responsibilities  
 - [ ] **SIEM Setup** – Collect, correlate, and analyze security data (network, servers, apps)  
-- [ ] **Shuffle (SOAR)** – Simulate SOC playbooks and automate responses  
-- [ ] **Microsoft Sentinel (SIEM/SOAR)** – Cloud-native SIEM integration  
 - [ ] **AWS Monitoring** – Use CloudTrail + SNS to detect and alert on activity  
-- [ ] **OpenVPN** – Set up a secure VPN tunnel  
-- [ ] **Metasploit** – Practice vulnerability testing (in isolated lab environments only)  
 - [ ] **Active Directory** – Deploy AD for simulating privilege management & attacks  
 - [ ] **Dockerized Services** – Fully containerized setup for easy deployment & maintenance  
+- [X] **Metasploit** – Practice vulnerability testing (in isolated lab environments only) 
+- [X] **Wazuh** – XDR/SIEM protection for endpoints and cloud
 
   ## 📦 Docker Setup (Example)
 
