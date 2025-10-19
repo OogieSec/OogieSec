@@ -42,10 +42,10 @@ As a cybersecurity enthusiast and practitioner, my goal is to contribute to a sa
 | Snort NIDS/NIPS | ✅ Complete  |
 | SIEM deployed (Wazuh) | ✅ Complete  |
 | Wazuh XDR/SIEM protection for endpoints and cloud | ✅ Complete  |
-| Snort Setup | ⚡ In Prog  |
+| Snort Setup | ✅ In Prog  |
 | Attacks simulated | ⬜ Pending  |
 | Set up rules and decoding alerts from Honeypot| ⬜ Pending  |
-| Configur Wazuh** to use the Virustotal API (in keeper ossec_config) | ⬜ Pending  |
+| Configur Wazuh** to use the Virustotal API (in keeper ossec_config) | ⚡ Pending  |
 | OpenCanary Honeypot setup | ⬜ Pending  |
 | OpenVPN | ⬜ Pending  |
 | OpenVAS | ⬜ Pending  |
