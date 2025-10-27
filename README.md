@@ -9,13 +9,13 @@ As a cybersecurity enthusiast and practitioner, my goal is to contribute to a sa
 
 ## 🛠️ Technical Skills <br>
 🔹 IT & Networking<br>
-✅ Network Security & Monitoring<br>
-✅ Forensics & Incident Response<br>
-✅ Vulnerability Management & Assessment<br>
-✅ Endpoint Security <br>
-✅ Identity & Access Management (IAM)<br>
-✅ Security Frameworks & Standards<br>
-✅ Cybersecurity Fundamentals & Tools: Kali Linux, Nmap, Wireshark, Metasploit, Nessus, Splunk, Snort, PfSense
+ ✅ Network Security & Monitoring<br>
+ ✅ Forensics & Incident Response<br>
+ ✅ Vulnerability Management & Assessment<br>
+ ✅ Endpoint Security <br>
+ ✅ Identity & Access Management (IAM)<br>
+ ✅ Security Frameworks & Standards<br>
+ ✅ Cybersecurity Fundamentals & Tools: Kali Linux, Nmap, Wireshark, Metasploit, Nessus, Splunk, Snort, PfSense
 
 </div>
 
