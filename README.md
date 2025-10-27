@@ -51,7 +51,5 @@ As a cybersecurity enthusiast and practitioner, my goal is to contribute to a sa
 | OpenVAS | ⬜ Pending  |
 | Active Directory deploy AD for simulating privilege management & attacks  | ⬜ Pending  |
 | AWS Monitoring Use CloudTrail + SNS to detect and alert on activity | ⬜ Pending  |
-| Dockerized Services | ⬜ Pending  |
+| Dockerized Services 📦 | ⬜ Pending  |
 
-  ## 📦 Docker Setup (Example)
-  You can run OpenVAS, Shuffle, and Elastic Stack via Docker.
