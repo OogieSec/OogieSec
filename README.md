@@ -42,14 +42,14 @@ As a cybersecurity enthusiast and practitioner, my goal is to contribute to a sa
 | Snort NIDS/NIPS | ✅ Complete  |
 | SIEM deployed (Wazuh) | ✅ Complete  |
 | Wazuh XDR/SIEM protection for endpoints and cloud | ✅ Complete  |
-| Snort Setup | ✅ In Prog  |
-| Attacks simulated | ⬜ Pending  |
+| Snort Setup | ✅ Complete  |
+| Attacks simulated | ✅ Complete  |
 | Set up rules and decoding alerts from Honeypot| ⬜ Pending  |
-| Configur Wazuh** to use the Virustotal API (in keeper ossec_config) | ⚡ Pending  |
+| Configur Wazuh** to use the Virustotal API (in keeper ossec_config) | ✅ In Prog  |
 | OpenCanary Honeypot setup | ⬜ Pending  |
 | OpenVPN | ⬜ Pending  |
 | OpenVAS | ⬜ Pending  |
-| Active Directory deploy AD for simulating privilege management & attacks  | ⬜ Pending  |
+| Active Directory deploy AD for simulating privilege management & attacks  | ✅ Complete  |
 | AWS Monitoring Use CloudTrail + SNS to detect and alert on activity | ⬜ Pending  |
 | Dockerized Services 📦 | ⬜ Pending  |
 
