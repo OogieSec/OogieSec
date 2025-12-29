@@ -23,7 +23,6 @@ As a cybersecurity enthusiast and practitioner, my goal is to contribute to a sa
 <div>
 <img src="https://img.shields.io/badge/Security%2B-Certified-red?logo=comptia&logoColor=white" />
 <img src="https://img.shields.io/badge/CySA+-Certified-blueviolet?logo=comptia&logoColor=white" />
-<img src="https://img.shields.io/badge/CompTIA-CASP%2B%20Certified-blue?logo=comptia)](https://www.comptia.org/certifications/casp" />
 
 </div>
 
