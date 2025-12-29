@@ -43,13 +43,11 @@ As a cybersecurity enthusiast and practitioner, my goal is to contribute to a sa
 | Wazuh XDR/SIEM protection for endpoints and cloud | ✅ Complete  |
 | Snort Setup | ✅ Complete  |
 | Attacks simulated | ✅ Complete  |
-| Set up rules and decoding alerts from Honeypot| ⬜ Pending  |
 | Configur Wazuh to use the Virustotal API | ✅ Complete |
+| Set up rules and decoding alerts from Honeypot| ⬜ Pending  |
 | OpenCanary Honeypot setup | ⬜ Pending  |
 | OpenVPN | ⬜ Pending  |
 | OpenVAS | ⬜ Pending  |
-| Active Directory deploy AD for simulating privilege management & attacks  | ✅ Complete  |
-| AWS Monitoring Use CloudTrail + SNS to detect and alert on activity | ⬜ Pending  |
 | Security Onion - threat hunting, enterprise security monitoring, and log management | ⬜ Pending  |
 | Burp security assessment and penetration testing of web applications | ⬜ Pending  |
 | Splunk lab - SIEM with real threat detetion and analysis | ⬜ Pending  |
